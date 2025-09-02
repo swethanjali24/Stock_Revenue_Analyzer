@@ -1,5 +1,5 @@
 
-#📊 Stock Revenue Analyzer
+#📊 #Stock Revenue Analyzer
 ##📌 Project Overview
 
 ###This project analyzes stock price data and company revenue data using:
