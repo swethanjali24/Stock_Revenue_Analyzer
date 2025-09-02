@@ -1,18 +1,18 @@
 
-📊 Stock Revenue Analyzer
-📌 Project Overview
+#📊 Stock Revenue Analyzer
+##📌 Project Overview
 
-This project analyzes stock price data and company revenue data using:
+###This project analyzes stock price data and company revenue data using:
 
-yfinance
+##yfinance
  → for historical stock market data
 
-BeautifulSoup
+##BeautifulSoup
  → for scraping company revenue data from websites
 
 The goal is to visualize trends between stock prices and revenues, and gain insights into financial performance.
 
-⚙️ Features
+##⚙️ Features
 
 📈 Fetch historical stock price data using yfinance
 
@@ -24,14 +24,14 @@ The goal is to visualize trends between stock prices and revenues, and gain insi
 
 🧩 Combine stock and revenue data for deeper analysis
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python 3.x
 
 Libraries: yfinance, pandas, matplotlib, plotly, BeautifulSoup, requests
 
 
-Install dependencies:
+##Install dependencies:
 
 pip install -r requirements.txt
 
